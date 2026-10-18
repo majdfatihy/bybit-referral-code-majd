@@ -1,0 +1,26 @@
+# Bybit Guide by Majed Fathy (ماجد فتحي)
+
+> Independent guide (not operated by Bybit) to joining Bybit with referral code MAJD or 118303: new-user gifts with deadlines and terms, the virtual Bybit Card, funding with local payment methods (P2P), the Bybit Affiliate Program and Arabic video tutorials. Author is a Bybit referral partner; links are referral links. Last updated 2026-10-18.
+
+## Pages
+- [English guide](https://majdfatihy.github.io/bybit-referral-code-majd/): full guide in English
+- [الدليل بالعربية](https://majdfatihy.github.io/bybit-referral-code-majd/ar/): same guide in Arabic
+
+## Key facts (from Bybit Help Center, October 2026)
+- Referral codes: MAJD and 118303. The referral can only be created at registration.
+- Welcome Gift: up to 100 USDT, unlocked in the Rewards Hub during the first 7 days; KYC required.
+- Referral tasks (accounts registered on/after Oct 10, 2026, 12:00 UTC): first trade of at least $50 within 14 days = 50 USDT; $500 volume within 30 days after first trade = 100 USDT; $10,000 volume = 100 USDT. Up to 500 USDT combined for referrer and referee.
+- Rewards pass a 3-day risk review and must be claimed within 10 days; first-come, first-served from a daily pool.
+- Virtual Bybit Card: no issuance fee until further notice; no annual or monthly fee; availability depends on country; app-store purchases are excluded from cashback.
+- Funding: P2P trading, One-Click Buy / Fiat Deposit, crypto deposit; methods differ by country.
+- Affiliate Program: application and approval required; lifetime commission on referred traders' fees, settled daily; headline rate up to 30%.
+- Full Stocks Ahead campaign: 150,000 USDC prize pool until October 31, 2026.
+
+## Official sources
+- [Referral Program FAQ](https://www.bybit.com/en/help-center/article/Bybit-Referral-Program-General-FAQ)
+- [Affiliate Program FAQ](https://www.bybit.com/en/help-center/article/Bybit-Affiliate-Program-General-FAQ)
+- [Bybit Card benefits](https://learn.bybit.com/en/bybit-card/bybit-card-benefits)
+- [Bybit Card Rewards FAQ](https://www.bybit.com/en/help-center/article/FAQ-Bybit-Card-Rewards)
+
+## Disclosure
+Rewards, fees and campaigns are set by Bybit, vary by country and can change. Crypto and leveraged products are risky; this is not financial advice.
