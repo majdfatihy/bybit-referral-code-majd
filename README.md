@@ -3,12 +3,12 @@
 # 🟡 دليل إحالة ومنصة Bybit | Bybit Referral Code & Guide
 ### Bybit Referral Code MAJD (118303): Gifts, Virtual Card & Affiliate
 
-[![Live Guide](https://img.shields.io/badge/Live_Guide-Visit_Now-F7A600?style=for-the-badge&logo=google-chrome&logoColor=black)](https://majdfatihy.github.io/bybit-referral-code-majd/)
+[![Live Guide](https://img.shields.io/badge/Live_Guide-Visit_Now-F7A600?style=for-the-badge&logo=google-chrome&logoColor=black)](https://dev.majdfatihy.com/bybit-referral-code-majd/)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-@MajdFatihy-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@majdfatihy)
 [![Telegram](https://img.shields.io/badge/Telegram-@majdfathy-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/majdfathy)
 
 <p align="center">
-  <a href="https://majdfatihy.github.io/bybit-referral-code-majd/"><b>🌐 تصفح الدليل المباشر</b></a> •
+  <a href="https://dev.majdfatihy.com/bybit-referral-code-majd/"><b>🌐 تصفح الدليل المباشر</b></a> •
   <a href="https://youtube.com/@majdfatihy"><b>📺 قناة اليوتيوب</b></a> •
   <a href="https://t.me/majdfathy"><b>💬 التواصل المباشر (تليجرام)</b></a>
 </p>
@@ -73,12 +73,12 @@ cd bybit-referral-code-majd
 
 | المشروع | الروابط المباشرة | نبذة عن المشروع |
 | :--- | :--- | :--- |
-| 🟡 **دليل إحالة Bybit (Bybit Guide)** | [تصفح الدليل](https://majdfatihy.github.io/bybit-referral-code-majd/) • [المستودع](https://github.com/majdfatihy) | دليل كود الإحالة MAJD، هدايا التسجيل، البطاقة الافتراضية، والشحن المحلي على منصة Bybit. |
-| 💰 **صفحة خصم Money Fellows** | [تصفح الصفحة](https://majdfatihy.github.io/money-fellows-discount-300le/) • [المستودع](https://github.com/majdfatihy) | صفحة تسويقية لكود خصم ماني فيلوز مع حاسبة تفاعلية وفيديوهات الشرح. |
+| 🟡 **دليل إحالة Bybit (Bybit Guide)** | [تصفح الدليل](https://dev.majdfatihy.com/bybit-referral-code-majd/) • [المستودع](https://github.com/majdfatihy) | دليل كود الإحالة MAJD، هدايا التسجيل، البطاقة الافتراضية، والشحن المحلي على منصة Bybit. |
+| 💰 **صفحة خصم Money Fellows** | [تصفح الصفحة](https://dev.majdfatihy.com/money-fellows-discount-300le/) • [المستودع](https://github.com/majdfatihy) | صفحة تسويقية لكود خصم ماني فيلوز مع حاسبة تفاعلية وفيديوهات الشرح. |
 | 🚀 **أداة يوتيوب الشاملة (YT Master Tool)** | [قائمة الشرح](https://www.youtube.com/playlist?list=PLaGSQ9Xg8VA4) • [حساب GitHub](https://github.com/majdfatihy) | استخراج وتحليل بيانات قنوات يوتيوب وقوائم التشغيل والسيو وتصديرها إلى Excel و Google Sheets مع تحميل الصور المصغرة. |
-| 📇 **محوّل جهات اتصال فيسبوك** | [تصفح الأداة](https://majdfatihy.github.io/facebook-contacts-converter/) • [المستودع](https://github.com/majdfatihy/facebook-contacts-converter) | تحويل جهات اتصال فيسبوك (HTML/JSON) إلى Excel و vCard و Google CSV محلياً بالمتصفح مع إصلاح الأسماء العربية. |
-| 🖼️ **مصغر وضاغط الصور (Image Compressor)** | [تصفح الأداة](https://majdfatihy.github.io/image-compressor/) • [المستودع](https://github.com/majdfatihy/image-compressor) | أداة ضغط وتصغير أبعاد الصور وتحويلها إلى WebP/AVIF محلياً لتسريع مدونات بلوجر والمواقع. |
-| 💎 **دليل أرباحي المعتمد (Earn Directory)** | [تصفح المنصة](https://majdfatihy.github.io/online-earning-directory/) • [المستودع](https://github.com/majdfatihy/online-earning-directory) | دليل تفاعلي شامل لأفضل منصات الربح من الإنترنت، الصنابير، المهام، والأفيليت مع إثباتات الدفع الفورية. |
+| 📇 **محوّل جهات اتصال فيسبوك** | [تصفح الأداة](https://dev.majdfatihy.com/facebook-contacts-converter/) • [المستودع](https://github.com/majdfatihy/facebook-contacts-converter) | تحويل جهات اتصال فيسبوك (HTML/JSON) إلى Excel و vCard و Google CSV محلياً بالمتصفح مع إصلاح الأسماء العربية. |
+| 🖼️ **مصغر وضاغط الصور (Image Compressor)** | [تصفح الأداة](https://dev.majdfatihy.com/image-compressor/) • [المستودع](https://github.com/majdfatihy/image-compressor) | أداة ضغط وتصغير أبعاد الصور وتحويلها إلى WebP/AVIF محلياً لتسريع مدونات بلوجر والمواقع. |
+| 💎 **دليل أرباحي المعتمد (Earn Directory)** | [تصفح المنصة](https://dev.majdfatihy.com/online-earning-directory/) • [المستودع](https://github.com/majdfatihy/online-earning-directory) | دليل تفاعلي شامل لأفضل منصات الربح من الإنترنت، الصنابير، المهام، والأفيليت مع إثباتات الدفع الفورية. |
 | 🔗 **نظام توليد وتوجيه الروابط الآمنة** | [المستودع على GitHub](https://github.com/majdfatihy) | نظام متكامل لتوليد الروابط المشفرة (Base64) وصفحة إعادة توجيه ذكية مزودة بعداد تنازلي وحماية أمنية. |
 
 ---
@@ -89,8 +89,8 @@ cd bybit-referral-code-majd
 
 | المنصة | الرابط المباشر | الوصف |
 | :--- | :--- | :--- |
-| 🟡 **دليل Bybit (بالإنجليزية)** | [bybit-referral-code-majd](https://majdfatihy.github.io/bybit-referral-code-majd/) | الرابط المباشر للدليل الإنجليزي وكود MAJD |
-| 🟡 **دليل Bybit (بالعربية)** | [bybit-referral-code-majd/ar](https://majdfatihy.github.io/bybit-referral-code-majd/ar/) | النسخة العربية الشاملة من دليل Bybit |
+| 🟡 **دليل Bybit (بالإنجليزية)** | [bybit-referral-code-majd](https://dev.majdfatihy.com/bybit-referral-code-majd/) | الرابط المباشر للدليل الإنجليزي وكود MAJD |
+| 🟡 **دليل Bybit (بالعربية)** | [bybit-referral-code-majd/ar](https://dev.majdfatihy.com/bybit-referral-code-majd/ar/) | النسخة العربية الشاملة من دليل Bybit |
 | 📺 **قناة اليوتيوب (YouTube)** | [قناة ماجد فتحي - MajdFatihy](https://youtube.com/@majdfatihy) | الشروحات المرئية للأدوات والربح والبرمجة |
 | 💬 **حساب تيليجرام** | [التواصل المباشر - majdfathy](https://t.me/majdfathy) | للاستفسارات والدعم الفني |
 | 📱 **واتساب (WhatsApp)** | [تواصل عبر واتساب](https://wa.me/201066732514) | مراسلة فورية للدعم والاستفسارات |
